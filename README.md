@@ -2,7 +2,7 @@
 <!--- - 🔭 I’m currently working on learning Rust --->
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on any project! (As long as I know what the language is!)
-- 📫 How to reach me: vmlinuz@duck.com (Use a template from the [template](templete) folder to format your message correctly!)
+- 📫 How to reach me: vmlinuz@duck.com (Use a template from the [template](template) folder to format your message correctly!)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have been writing code for 6 years! 
 
