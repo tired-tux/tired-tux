@@ -1,5 +1,5 @@
 ### Hi there 👋
-<!--- - 🔭 I’m currently working on learning Rust --->
+- 🔭 I’m currently working on the [AltoPi](github.com/tired-tux/altopi)
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on any project! (As long as I know what the language is!)
 - 📫 How to reach me: vmlinuz@duck.com (Use a template from the [template](template) folder to format your message correctly!)
