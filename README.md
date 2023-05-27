@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on the [AltoPi](https://www.github.com/tired-tux/altopi)
 - 🌱 I’m currently learning Rust
+- 🦀 I am a rustacean full-time
 - 👯 I’m looking to collaborate on any project! (As long as I know what the language is!)
 - 📫 How to reach me: vmlinuz@duck.com (Use a template from the [template](template) folder to format your message correctly!)
 - 😄 Pronouns: He/Him
